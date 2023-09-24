@@ -1,5 +1,3 @@
 <template>
-  <div>
-    This is component!
-  </div>
+  <div>This is component!</div>
 </template>
